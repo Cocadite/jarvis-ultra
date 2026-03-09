@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="app_description">Seu Assistente de IA</string>
+
+    <!-- Main Screen -->
+    <string name="title_main">Jarvis</string>
+    <string name="subtitle_main">Seu Assistente de IA</string>
+    <string name="btn_microphone">Clique para falar</string>
+    <string name="listening">🎤 Ouvindo...</string>
+    <string name="transcript_hint">Sua fala aparecerá aqui...</string>
+
+    <!-- Status Cards -->
+    <string name="status_modules">Módulos</string>
+    <string name="status_commands">Comandos</string>
+    <string name="status_success_rate">Taxa</string>
+    <string name="status_online">Online</string>
+
+    <!-- Quick Actions -->
+    <string name="action_spotify">Spotify</string>
+    <string name="action_gmail">Gmail</string>
+    <string name="action_maps">Maps</string>
+    <string name="action_calendar">Calendar</string>
+    <string name="action_weather">Weather</string>
+    <string name="action_automations">Automações</string>
+
+    <!-- Recent Commands -->
+    <string name="recent_commands">Comandos Recentes</string>
+    <string name="no_commands">Nenhum comando registrado</string>
+
+    <!-- Tabs -->
+    <string name="tab_home">Início</string>
+    <string name="tab_voice">Voz</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_automations">Automações</string>
+    <string name="tab_logs">Logs</string>
+
+    <!-- Permissions -->
+    <string name="permission_microphone">Permissão de Microfone</string>
+    <string name="permission_location">Permissão de Localização</string>
+    <string name="permission_camera">Permissão de Câmera</string>
+    <string name="permission_calendar">Permissão de Calendário</string>
+    <string name="permission_contacts">Permissão de Contatos</string>
+    <string name="permission_storage">Permissão de Armazenamento</string>
+    <string name="permission_bluetooth">Permissão de Bluetooth</string>
+
+    <!-- Messages -->
+    <string name="msg_welcome">Bem-vindo ao Jarvis!</string>
+    <string name="msg_error">Erro ao processar comando</string>
+    <string name="msg_success">Comando executado com sucesso</string>
+    <string name="msg_no_internet">Sem conexão de internet</string>
+    <string name="msg_offline">Modo offline ativado</string>
+
+    <!-- Errors -->
+    <string name="error_audio">Erro de áudio</string>
+    <string name="error_network">Erro de rede</string>
+    <string name="error_permission">Permissão negada</string>
+    <string name="error_no_match">Nenhuma correspondência encontrada</string>
+
+    <!-- Actions -->
+    <string name="action_play">▶️ Tocando</string>
+    <string name="action_pause">⏸️ Pausado</string>
+    <string name="action_next">⏭️ Próxima</string>
+    <string name="action_previous">⏮️ Anterior</string>
+    <string name="action_send">📧 Enviando</string>
+    <string name="action_read">📨 Lendo</string>
+    <string name="action_create">➕ Criando</string>
+    <string name="action_delete">🗑️ Deletando</string>
+
+    <!-- Settings -->
+    <string name="settings_language">Idioma</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_notifications">Notificações</string>
+    <string name="settings_privacy">Privacidade</string>
+    <string name="settings_about">Sobre</string>
+
+    <!-- About -->
+    <string name="about_version">Versão 1.0.0</string>
+    <string name="about_developer">Desenvolvido por Jarvis</string>
+    <string name="about_license">MIT License</string>
+</resources>

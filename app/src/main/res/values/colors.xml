@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Holographic Colors -->
+    <color name="primary">#ba86fc</color>
+    <color name="primary_light">#d9b8ff</color>
+    <color name="primary_dark">#8a5acc</color>
+
+    <color name="secondary">#03dac6</color>
+    <color name="secondary_light">#66f9f0</color>
+    <color name="secondary_dark">#018786</color>
+
+    <color name="tertiary">#00BCD4</color>
+    <color name="tertiary_light">#4dd0e1</color>
+    <color name="tertiary_dark">#0097a7</color>
+
+    <!-- Background Colors -->
+    <color name="background">#0a0e27</color>
+    <color name="surface">#1a1f3a</color>
+    <color name="surface_variant">#2a2f4a</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#b3b3b3</color>
+    <color name="text_tertiary">#666666</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#FF5252</color>
+    <color name="warning">#FFC107</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Integration Colors -->
+    <color name="spotify_green">#1DB954</color>
+    <color name="gmail_red">#EA4335</color>
+    <color name="maps_blue">#4285F4</color>
+    <color name="weather_cyan">#00BCD4</color>
+    <color name="calendar_purple">#9C27B0</color>
+    <color name="crypto_orange">#FF9800</color>
+    <color name="news_gray">#757575</color>
+    <color name="youtube_red">#FF0000</color>
+    <color name="reddit_orange">#FF4500</color>
+    <color name="twitter_blue">#1DA1F2</color>
+
+    <!-- Transparency -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#80000000</color>
+</resources>
